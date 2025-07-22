@@ -5,6 +5,7 @@ int main() {
     int a, b, c;
     cin >> a >> b >> c;
     cout << a + b + c << endl;
+    cout << "Hello World!" << endl; 
     return 0;
 }
 
